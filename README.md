@@ -6,8 +6,8 @@ Source code for my Time Tracker Flutter Course on Udemy.
 
 This project uses the following package name (case sensitive):
 
-- `com.codingwithflutter.timetrackerfluttercourse` on Android
-- `com.codingwithflutter.timeTrackerFlutterCourse` on iOS
+- `com.test.timetrackerfluttercourse` on Android
+- `com.test.timeTrackerFlutterCourse` on iOS
 
 You can clone this repo and reuse this package name if you want, but you will need to register the project with your on Firebase account.
 
